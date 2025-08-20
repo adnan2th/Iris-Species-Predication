@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 
-Model = joblib.load("D:\FYP\Other Projects\Iris Specie\irise.model")
+Model = joblib.load("irise.model")
 Iris_data =pd.read_csv("D:\FYP\Other Projects\Iris Specie\Iris.csv")
 
 st.set_page_config(
