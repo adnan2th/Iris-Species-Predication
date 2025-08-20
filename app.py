@@ -46,10 +46,10 @@ st.success(f"This is likely a **{prediction}** iris")
 
 
 if prediction == "Iris-setosa":
-        st.image("D:\FYP\Other Projects\Iris Specie\\51376589362_b92e27ae7a_b.jpg",  width=300)
+        st.image("51376589362_b92e27ae7a_b.jpg",  width=300)
 
 elif prediction == "Iris-versicolor":
-        st.image("D:\FYP\Other Projects\Iris Specie\Iris-versicolor-Blue-Flag-Iris-Flower-scaled.jpg",  width=300)
+        st.image("Iris-versicolor-Blue-Flag-Iris-Flower-scaled.jpg",  width=300)
 
 else:
-    st.image("D:\FYP\Other Projects\Iris Specie\images.jpeg", width=300)
+    st.image("images.jpeg", width=300)
