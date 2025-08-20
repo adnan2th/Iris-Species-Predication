@@ -5,7 +5,7 @@ import numpy as np
 
 
 Model = joblib.load("irise.model")
-Iris_data =pd.read_csv("D:\FYP\Other Projects\Iris Specie\Iris.csv")
+Iris_data =pd.read_csv("Iris.csv")
 
 st.set_page_config(
     page_title="Iris Species Detection",  # Browser tab title
