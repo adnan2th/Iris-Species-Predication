@@ -47,8 +47,8 @@ You may customize this section with your exact model.
 - **NumPy**
 - **Pandas**
 - **Scikit-Learn**
-
-📈 Results
-Model Accuracy: 96%
 - **Matplotlib / Seaborn** (optional for plots)
 - **Jupyter Notebook** or Python scripts
+
+- 📈 Results
+Model Accuracy: 96%
